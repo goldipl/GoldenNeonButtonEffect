@@ -7,7 +7,7 @@
 It is CSS style for golden neon button effect.
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * CSS3
 
 ## Author
